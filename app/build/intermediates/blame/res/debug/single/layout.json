@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\sosa0\\AndroidStudioProjects\\activity-lifecycle1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_b.xml",
+        "source": "C:\\Users\\sosa0\\AndroidStudioProjects\\activity-lifecycle1\\app\\src\\main\\res\\layout\\activity_b.xml"
+    },
+    {
+        "merged": "C:\\Users\\sosa0\\AndroidStudioProjects\\activity-lifecycle1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_c.xml",
+        "source": "C:\\Users\\sosa0\\AndroidStudioProjects\\activity-lifecycle1\\app\\src\\main\\res\\layout\\activity_c.xml"
+    },
+    {
+        "merged": "C:\\Users\\sosa0\\AndroidStudioProjects\\activity-lifecycle1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_a.xml",
+        "source": "C:\\Users\\sosa0\\AndroidStudioProjects\\activity-lifecycle1\\app\\src\\main\\res\\layout\\activity_a.xml"
+    }
+]
